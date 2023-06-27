@@ -1,7 +1,8 @@
 # MOBILE-WAREHOUSE-ROBOT
 
 A rover capable of performing **path planning** using djikstra and A* algorithms.
-1)Creating a workspace to build the package
+
+Creating a workspace to build the package
 mkdir -p ~/rover_ws/src && cd ~/rover_ws/src
 
 Installing the dependencies and building the workspace
